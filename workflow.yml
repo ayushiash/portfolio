@@ -1,8 +1,0 @@
-name: Portfolio
-on:
-push:
-branches:
-permissions:
-jobs:
-deploy:
-runs-on:
